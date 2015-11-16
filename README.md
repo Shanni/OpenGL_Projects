@@ -9,7 +9,7 @@ The OpenGL projects repository, including a line of small projects or algorithm 
 - An .exe file is provided.
 - Sample drawing is available here:
 
-<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/SimplePolygon/sample1.png" alt="Drawing" width=400/>
+<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/SimplePolygon/sample1.png" alt="Drawing" width=300/>
 
 ## 3D Shapes
 
@@ -28,7 +28,8 @@ The OpenGL projects repository, including a line of small projects or algorithm 
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample1.png" alt="Drawing" width=100/>
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample2.png" alt="Drawing" width=200/>
 
-- Texture Mapping & Rendering
+- Texture Mapping & Rendering 
+    (mimic a crystal texture)
 
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample3.png" alt="Drawing" width=400/>
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample4.png" alt="Drawing" width=400/>
