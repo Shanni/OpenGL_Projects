@@ -8,12 +8,14 @@ The OpenGL projects repository, including a line of small projects or algorithm 
 - Computer Graphics Midpoint algorithm implementation.
 - An .exe file is provided.
 - Sample drawing is available here:
+
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/SimplePolygon/sample1.png" alt="Drawing" width=400/>
 
 ## 3D Shapes
 
 - Practice Project in different 3D shapes construction.
 - Sample Image:
+
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/3DShapes/sample1.png" alt="Drawing" width=400/>
 <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/3DShapes/sample2.png" alt="Drawing" width=400/>
 
