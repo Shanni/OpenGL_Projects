@@ -1,0 +1,2 @@
+to compile on mac:
+g++ /System/Library/Frameworks/GLUT.framework/GLUT /System/Library/Frameworks/OpenGL.framework/OpenGL x.cpp

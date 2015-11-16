@@ -1,0 +1,46 @@
+
+File info:
+
+src
+7.cpp - My source code of the project ***.
+tgaload.cpp - An open source image loader class.
+
+dependencies
+6.h - My source code of the project ***.
+e.h - My source code of the project ***.
+tga.cpp - An open source image loader class.
+
+
+Compile:
+with CLT: 
+
+  $ g++ /System/Library/Frameworks/GLUT.framework/GLUT /System/Library/Frameworks/OpenGL.framework/OpenGL tgaload.cpp 7.cpp
+
+How to use:
+
+  Keyboard inputs:
+  +  increase subdivision depth
+  s  flat shading (regular object)
+  w  wireless shape
+  q  quit
+
+  1  display actually refraction under ellipsoid-- determined by the white circle under that ellipsoid
+  2  display an ellipsoid
+  3  display actually refraction in ellipsoid   -- yellow point: reflect on surface 
+                                                -- middle orange point: refraction view 
+                                                -- bottom orange point: actual object position
+  4  display a plane (assembly of dots)
+    sub-usage: +  increase subdivision of the plane
+               -  decrease subdivision of the plane
+  5  display refraction view 
+  
+  8  display ray tracing 
+  9  display refraction on a sphere 
+
+8,9 sub-usage: r  shift right
+               l  shift left
+               b  shift back
+               f  shift front
+               z  show light trace
+  0  light testing
+

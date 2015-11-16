@@ -1,0 +1,4 @@
+shadow-map-size: 1024
+caustic-map-size: 2048
+env-map-size: 1024
+model-name: boxes.bin

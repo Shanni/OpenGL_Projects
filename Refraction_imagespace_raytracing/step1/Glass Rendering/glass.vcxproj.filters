@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{92fe253a-33a2-4178-a77a-63eb8d49a5dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\e2engine">
+      <UniqueIdentifier>{fefdca6a-8446-4b7c-ab10-293da152c918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{dc88a3d0-9785-40a9-96e7-099933268ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\e2engine">
+      <UniqueIdentifier>{7764bdca-770d-438b-ac68-d952431de5ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\OpenGL">
+      <UniqueIdentifier>{9895b69f-6836-4ac6-be06-2b14ba508b16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\OpenGL">
+      <UniqueIdentifier>{23fb315c-36d9-4318-bd83-bf76375e66aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\OpenIL">
+      <UniqueIdentifier>{cecaf3b6-af02-4922-9cac-ba9100950fb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\scene.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2core.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2gui.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2helpers.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2manager.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2primitives.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2render.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\e2scene.cpp">
+      <Filter>Source\e2engine</Filter>
+    </ClCompile>
+    <ClCompile Include="e2engine\gl3\glgen.cpp">
+      <Filter>Headers\OpenGL</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\scene.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2classes.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2const.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2core.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2geometry.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2gui.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2helpers.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2manager.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2primitives.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2render.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2scene.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2tools.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\e2types.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\matrix3.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\matrix4.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\quaternion.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\vector2.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\vector3.h">
+      <Filter>Headers\e2engine</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\config.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\devil_internal_exports.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\il.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\il_wrap.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\ilu.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\ilu_region.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\ilut.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\IL\ilut_config.h">
+      <Filter>Headers\OpenIL</Filter>
+    </ClInclude>
+    <ClInclude Include="e2engine\gl3\glgen.h">
+      <Filter>Headers\OpenGL</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

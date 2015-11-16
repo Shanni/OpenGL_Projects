@@ -1,0 +1,7 @@
+step1: 
+	http://geomalgorithms.com/a05-_intersect-1.html
+	http://www.cosinekitty.com/raytrace/chapter09_refraction.html
+
+step_after:
+	http://web.cs.wpi.edu/~emmanuel/courses/cs543/f13/slides/lecture09_p1.pdf
+	http://www.programcreek.com/java-api-examples/index.php?api=com.sun.opengl.util.GLUT
