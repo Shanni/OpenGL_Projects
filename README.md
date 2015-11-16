@@ -25,11 +25,11 @@ The OpenGL projects repository, including a line of small projects or algorithm 
 - Linear Algebra functions implementation in C++
 - Ray Tracing imlementation
 
-<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/sample1.png" alt="Drawing" width=400/>
-<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/sample2.png" alt="Drawing" width=400/>
+<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample1.png" alt="Drawing" width=400/>
+<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample2.png" alt="Drawing" width=400/>
 
 - Texture Mapping & Rendering
 
-<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/sample3.png" alt="Drawing" width=400/>
-<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/sample4.png" alt="Drawing" width=400/>
+<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample3.png" alt="Drawing" width=400/>
+<img src="https://github.com/Shanni/OpenGL_Projects/blob/master/Refraction_imagespace_raytracing/SampleImages/sample4.png" alt="Drawing" width=400/>
 
