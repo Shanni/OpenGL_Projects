@@ -1,0 +1,13 @@
+compile on terminal with command:
+g++ /System/Library/Frameworks/GLUT.framework/GLUT /System/Library/Frameworks/OpenGL.framework/OpenGL 1.cpp/2.cpp/...etc.
+
+for 2.cpp, e.cpp:
+
+  Keyboard inputs:
+  +  increase subdivision depth
+  -  decrease subdivision depth
+  s  flat shading (regular object)
+  m  smooth shading (approximate sphere)
+  w  wireless shading
+  q  quit
+

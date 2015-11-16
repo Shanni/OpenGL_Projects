@@ -1,0 +1,11 @@
+The file was running on terminal with: 
+g++ /System/Library/Frameworks/GLUT.framework/GLUT /System/Library/Frameworks/OpenGL.framework/OpenGL simplePolygon.cpp
+
+Usage: 1.) left click to select and draw lines, after finish, click on the right mouse button. 
+	2.) And the last right click(point) will determine whether (the point) is inside or outside the polygon. 
+	3.) After a polygon is created, it shows in terminal console about wether it is a simple polygon. 
+	4.) (partially done) translation.
+
+Implementaion: I used midpoint algorithm to draw lines by a string of dots, and determine the position of each lines(in which quadrant) and translate variable to fit in a proper one (by reflection, shifting and etc.)
+
+	And then I used algorithm to scan to polygon.
