@@ -8,8 +8,4 @@ The OpenGL projects repository, including a line of small projects or algorithm 
 - Computer Graphics Midpoint algorithm implementation.
 - An .exe file is provided.
 - Sample drawing is available here:
-        ![pic](https://github.com/Shanni/OpenGL_Projects/blob/master/SimplePolygon/sample1.png "Little Ugly Dog :p")
-img[alt="pic"] { 
-  max-width:  400px; 
-  display: block;
-}
+       <img src="https://github.com/Shanni/OpenGL_Projects/blob/master/SimplePolygon/sample1.png" alt="Drawing" style="width: 400px;"/>
